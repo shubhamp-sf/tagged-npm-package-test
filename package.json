@@ -1,0 +1,17 @@
+{
+  "name": "@shubhamp-sf/tagged-npm-package-test",
+  "version": "1.0.0",
+  "description": "testing out tagged npm package publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/shubhamp-sf/tagged-npm-package-test"
+  },
+  "author": "shubhamp-sf",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
